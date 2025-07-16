@@ -10,6 +10,8 @@ This list contains a list of known tech companies with internships in Singapore,
 - Salesforce
 - Stripe
 - PayPal
+- Visa
+- Mastercard
 
 ## Big Chinese Companies 
 - Bytedance / Tiktok
@@ -20,18 +22,31 @@ This list contains a list of known tech companies with internships in Singapore,
 - Alibaba
 
 ## Other Big Companies
+- Agoda
 - Grab
 - Shopee
 - Monee
 - Oracle
+- Caladan
+- Rakuten / Rakuten Viki
+- SAP
+- HP
+- Dyson
+- Schneider Electric
 
 ## Fintech
 - YouTrip
 - NETS
 - Trust Bank
 - GXS
+- Wise
+
+## Finance
+- Blackstone
+- Blackrock
 
 ## Trading
+- Alphagrep
 - Jump Trading
 - Jane Street
 - Citadel / Citadel Securities
@@ -81,7 +96,8 @@ This list contains a list of known tech companies with internships in Singapore,
 - PwC
 - NCS
 - Visio
-- Capgemeni
+- Capgemini
+- BCG
 
 ## Government
 - Open Government Products (OGP)
@@ -102,3 +118,9 @@ This list contains a list of known tech companies with internships in Singapore,
 - Hoyoverse
 - Riot Games
 - YOOZOO
+- Garena
+
+## Open Source
+- Outreachy
+- Google Summer of Code
+- Major League Hacking Fellowship
