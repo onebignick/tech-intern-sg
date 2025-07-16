@@ -33,6 +33,12 @@ This list contains a list of known tech companies with internships in Singapore,
 - HP
 - Dyson
 - Schneider Electric
+- IBM
+- Thales
+- Hitachi Rail
+
+## Startups
+- Shopback
 
 ## Fintech
 - YouTrip
@@ -50,6 +56,8 @@ This list contains a list of known tech companies with internships in Singapore,
 - Jump Trading
 - Jane Street
 - Citadel / Citadel Securities
+- DRW
+- DE Shaw
 - Hudson River Trading
 - Grasshopper
 - Graviton Captial
@@ -59,6 +67,7 @@ This list contains a list of known tech companies with internships in Singapore,
 - Qube Research and Technologies (QRT)
 - WorldQuant
 - Marshall Wace
+- Millenium
 
 ## Crypto Trading
 - Tokka Labs
@@ -98,6 +107,7 @@ This list contains a list of known tech companies with internships in Singapore,
 - Visio
 - Capgemini
 - BCG
+- Mavericks Consulting
 
 ## Government
 - Open Government Products (OGP)
@@ -107,6 +117,7 @@ This list contains a list of known tech companies with internships in Singapore,
 - Home Team Science and Technology Agency (HTX)
 - Defense Science and Technology Agency (DSTA)
 - DSO National Laboratories (DSO)
+- ASTAR
 - IMDA
 - EDB
 - Synapxe (formerly IHiS)
