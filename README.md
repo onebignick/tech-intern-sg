@@ -20,6 +20,7 @@ This list contains a list of known tech companies with internships in Singapore,
 - Tencent
 - Baidu
 - Alibaba
+- Xiaomi
 
 ## Other Big Companies
 - Agoda
@@ -36,6 +37,7 @@ This list contains a list of known tech companies with internships in Singapore,
 - IBM
 - Thales
 - Hitachi Rail
+- Seagate
 
 ## Startups
 - Shopback
@@ -97,6 +99,10 @@ This list contains a list of known tech companies with internships in Singapore,
 - Societe Generale
 - UBS
 
+## Cyber-security
+- Acronis
+- ProofPoint
+
 ## Consulting
 - Accenture
 - KPMG
@@ -124,6 +130,13 @@ This list contains a list of known tech companies with internships in Singapore,
 - GIC
 - Temasek
 - ST Engineering
+- Centre for Strategic Infocomm Technologies (CSIT)
+- HDB
+- CPF
+- PSA
+- CSA
+- URA
+- IRAS
 
 ## Games
 - Hoyoverse
